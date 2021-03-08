@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johni0702/mumble-client-websocket.git"
+    "url": "git+https://github.com/UndeRus/mumble-client-websocket.git"
   },
   "author": "Jonas Herzig <me@johni0702.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/johni0702/mumble-client-websocket/issues"
+    "url": "https://github.com/UndeRus/mumble-client-websocket/issues"
   },
-  "homepage": "https://github.com/johni0702/mumble-client-websocket#readme",
+  "homepage": "https://github.com/UndeRus/mumble-client-websocket#readme",
   "files": [
     "index.js",
     "lib"
@@ -36,6 +36,6 @@
     "websocket-stream": "^3.2.1"
   },
   "peerDependencies": {
-    "mumble-client": "github:UndeRus/mumble-client#ad81d20"
+    "mumble-client": "github:UndeRus/mumble-client"
   }
 }
